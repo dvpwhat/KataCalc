@@ -58,7 +58,7 @@ public class Main {
 
                 int result = calcProgres(arabNumber1, arabNumber2, enterNumber[1], false);
 
-                //Выводим результат арабскими цифрами
+       
                 return "Output \n" + result;
 
             } catch (NumberFormatException ee) {
